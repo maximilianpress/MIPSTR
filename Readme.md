@@ -20,6 +20,8 @@
 ## FILES:
 *`MIPSTR_runner.sh`: runs code procedurally in a fashion that should generate STR genotypes given MIP designs from mipgen and sequencing data in fastq format.
 
+Place these in the MIPSTR directory.
+
 ## Fastq data for testing: files too large for github, but can be downloaded [here](https://osf.io/mv2at/)
 * `Cvi-NewMIP_S4_L001_R1_001.fastq.gz`: forward 250bp reads from a MIPSTR library (a pilot experiment)
 * `Cvi-NewMIP_S4_L001_R2_001.fastq.gz`: reverse 50bp reads from a MIPSTR library (a pilot experiment)
