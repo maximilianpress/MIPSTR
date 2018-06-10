@@ -24,7 +24,7 @@
 * `Cvi-NewMIP_S4_L001_R1_001.fastq.gz`: forward 250bp reads from a MIPSTR library (a pilot experiment)
 * `Cvi-NewMIP_S4_L001_R2_001.fastq.gz`: reverse 50bp reads from a MIPSTR library (a pilot experiment)
 
-https://github.com/maximilianpress/MIPSTR
+Place these files in the main MIPSTR directory, which is where the runner script expects them to be.
 
 ## notes on running the code:
 This code is provided as an example of how the pipeline can be run, on a single sample. In order to run on multiple samples, in any practical situation, 
