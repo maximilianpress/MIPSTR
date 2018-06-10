@@ -2,9 +2,7 @@
 ### Originally developed (v1) by Keisha Carlson and Peter Sudmant (described in Carlson _et al._ 2015 _Genome Research_).
 ### Updated by Maximilian Press and Ashley Hall (v2).
 
-### this code will not be supported, other than to deal with obvious bugs. direct inquiries to queitsch@uw.edu.
-### this code is provided in the interest of openness and reproducibility. it is not intended to be extended beyond the application of the authors
-### (Press et al. 2018, ms in revision), though users are certainly welcome to do so should they desire. 
+### this code will not be supported, other than to deal with obvious bugs. direct inquiries to queitsch@uw.edu. this code is provided in the interest of openness and reproducibility. it is not intended to be extended beyond the application of the authors (Press et al. 2018, ms in revision), though users are certainly welcome to do so should they desire. 
 
 # dependencies (in path):
 -Linux OS
@@ -22,7 +20,7 @@
 ## FILES:
 `MIPSTR_runner.sh`: runs code procedurally in a fashion that should generate STR genotypes given MIP designs from mipgen and sequencing data in fastq format.
 
-## Fastq data for testing:
+## Fastq data for testing: files too large for github, but can be downloaded [here](https://osf.io/mv2at/)
 `Cvi-NewMIP_S4_L001_R1_001.fastq.gz`: forward 250bp reads from a MIPSTR library (a pilot experiment)
 `Cvi-NewMIP_S4_L001_R2_001.fastq.gz`: reverse 50bp reads from a MIPSTR library (a pilot experiment)
 
