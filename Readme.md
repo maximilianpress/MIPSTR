@@ -1,4 +1,6 @@
 # MIPSTR v2 code package 
+### The paper using this code is now out in [_Genome Research_](https://genome.cshlp.org/content/28/8/1169.abstract), doi:10.1101/gr.231753.117.
+
 ### Originally developed (v1) by Keisha Carlson and Peter Sudmant (described in Carlson _et al._ 2015 _Genome Research_).
 ### Updated by Maximilian Press and Ashley Hall (v2).
 
